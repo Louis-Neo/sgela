@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853714803075",
+    "firebase_url": "https://schooler-b302b.firebaseio.com",
+    "project_id": "schooler-b302b",
+    "storage_bucket": "schooler-b302b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853714803075:android:e0fa7c2d459a96ad487eb6",
+        "android_client_info": {
+          "package_name": "com.example.schooler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853714803075-r71eggfsd9e61butvg0i74no0kpgebj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh7r90Tf2GxQW9YSe5t0M9DEpMJtizjcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853714803075-r71eggfsd9e61butvg0i74no0kpgebj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
